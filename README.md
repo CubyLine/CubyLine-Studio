@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Дарова
 
-You can use the [editor on GitHub](https://github.com/CubyLine/cubyline.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Вы находитесь на сайте разработчика CubyLine Studio в которой находится всего один человек. Как, говорится - один в поле, а уже студия.
 
 ### Markdown
 
