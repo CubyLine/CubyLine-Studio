@@ -7,10 +7,15 @@
 <center><iframe frameborder="0" src="https://itch.io/embed/308553" width="208" height="167"></iframe></center>
 
 
-### Jekyll Themes
+### Как я могу поддержать разработчика?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CubyLine/cubyline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Чтобы поддержать разработчика, достаточно поделится копейкой. Мы не вынуждаем вас этим заниматся, а нам важны не деньги, а внимание.<br>
+Наши кошельки:<br>
+QIWI: 79247367725<br>
+Webmoney WMR: R413161415543
 
-### Support or Contact
+### Наши контакты
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Группа ВК: http://vk.com/cubyline <br>
+Основатель ВК: http://vk.com/carol_the_best <br>
+Email: wheatleyhdd@gmail.com
