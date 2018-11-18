@@ -18,4 +18,4 @@ Webmoney WMR: R413161415543
 
 Группа ВК: http://vk.com/cubyline <br>
 Основатель ВК: http://vk.com/carol_the_best <br>
-Email: <a href"mailto:wheatleyhdd@gmail.com">wheatleyhdd@gmail.com</a>
+Email: <a href="mailto:wheatleyhdd@gmail.com">wheatleyhdd@gmail.com</a>
