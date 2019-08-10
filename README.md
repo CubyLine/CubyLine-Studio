@@ -4,7 +4,12 @@
 
 ### Мои Проекты
 
-<center><iframe frameborder="0" src="https://itch.io/embed/308553" width="208" height="167"></iframe></center>
+<center>
+  <iframe frameborder="0" src="https://itch.io/embed/351380" width="208" height="167"></iframe>
+  <iframe frameborder="0" src="https://itch.io/embed/417464" width="208" height="167"></iframe>
+  <iframe frameborder="0" src="https://itch.io/embed/308553" width="208" height="167"></iframe>
+  <iframe frameborder="0" src="https://itch.io/embed/357011" width="208" height="167"></iframe>
+</center>
 
 
 ### Как я могу поддержать разработчика?
